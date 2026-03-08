@@ -33,7 +33,7 @@ Speciality  : DAST | Web App Pentesting | Threat Research
 CVEs        : 100+ Discovered & Responsibly Disclosed
 Location    : Bangalore, India
 Status      : [ ● AVAILABLE ] Open for new engagements
-Contact     : rajeshwar432@gmail.com | +91 9906041418
+
 ```
 
 > I hunt vulnerabilities so you don't have to deal with breaches. Application security researcher specializing in **Dynamic Application Security Testing (DAST)**, web application penetration testing, and responsible vulnerability disclosure across multiple CVE years (2020–2026).
