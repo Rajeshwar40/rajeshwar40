@@ -11,7 +11,7 @@
 
 ### `> Application Security Researcher // Threat Hunter // DAST Expert`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=100%2B+CVEs+Discovered+%26+Responsibly+Disclosed;Application+Security+%7C+DAST+%7C+Threat+Research;Vulnerability+Assessment+%7C+Penetration+Testing;Bug+Bounty+Hunter+%7C+Bangalore%2C+India)](https://github.com/Rajeshwar40)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=10+%2B+CVEs+Discovered+%26+Responsibly+Disclosed;Application+Security+%7C+DAST+%7C+Threat+Research;Vulnerability+Assessment+%7C+Penetration+Testing;Bug+Bounty+Hunter+%7C+Bangalore%2C+India)](https://github.com/Rajeshwar40)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajeshwar_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshwar-singh-59070715b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rajeshwar40-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajeshwar40)
@@ -30,7 +30,7 @@ $ cat /etc/researcher.conf
 Name        : Rajeshwar Singh
 Role        : Application Security Researcher
 Speciality  : DAST | Web App Pentesting | Threat Research
-CVEs        : 100+ Discovered & Responsibly Disclosed
+CVEs        : 10+ Discovered & Responsibly Disclosed
 Location    : Bangalore, India
 Status      : [ ● AVAILABLE ] Open for new engagements
 
@@ -40,20 +40,6 @@ Status      : [ ● AVAILABLE ] Open for new engagements
 
 ---
 
-## `> cat cve_stats.json`
-
-<div align="center">
-
-| 📅 Year | 🔢 CVEs Disclosed |
-|:-------:|:-----------------:|
-| 2020    | CVE-2020-15035 → 15037 |
-| 2022    | CVE-2022-29004 → 47102 series |
-| 2023    | CVE-2023-23122 → 51352 series |
-| 2024    | CVE-2024-29340 → 55478 series |
-| 2025    | CVE-2025-26208 → 69533 series |
-| 2026    | Reserved (Upcoming) |
-
-</div>
 
 ### Notable CVEs
 
