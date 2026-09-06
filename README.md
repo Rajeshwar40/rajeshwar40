@@ -174,7 +174,7 @@ PING rajeshwar432@gmail.com ...
 
 [![Email](https://img.shields.io/badge/Drop_a_Mail-rajeshwar432@gmail.com-00D4FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshwar432@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshwar-singh-59070715b/)
-[![WhatsApp](https://img.shields.io/badge/Call-+91_9906041418-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919906041418)
+[![WhatsApp](https://img.shields.io/badge/Call-+91_9906041418-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919999999999)
 
 </div>
 
